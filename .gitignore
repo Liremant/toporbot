@@ -45,7 +45,6 @@ env.bak/
 venv.bak/
 
 # UV package manager
-uv.lock
 .venv/
 
 # IDE
@@ -59,7 +58,6 @@ uv.lock
 .ipynb_checkpoints
 
 # pyenv
-.python-version
 
 # Logs
 *.log
